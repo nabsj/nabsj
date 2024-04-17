@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&text=seongjunebaek&color=auto&height=400&weight=400animation=fadeIn&fontColor=F37021&fontSize=80">
+  <img src="https://capsule-render.vercel.app/api?type=Venom&text=seongjune-baek&color=auto&height=400&weight=400animation=fadeIn&fontColor=F37021&fontSize=95">
 </p>
 
 
