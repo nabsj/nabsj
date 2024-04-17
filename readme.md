@@ -6,6 +6,7 @@
 
 # 💫 About Me:
 B.S in Department of Data Information & Statistics, Pyeongtaek Univ 2019
+
 “세상의 이로움을 주고, 윤택한 삶을 주는 AI 기술을 만들고 싶습니다”
 
 ## 🌐 Socials:
