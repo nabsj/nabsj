@@ -5,15 +5,8 @@
 
 
 # 💫 About Me:
-I want to create a world where AI technology can be helpful and utilized for the betterment of society.
-
-"AI 기술로 세상에 도움이 되고 활용할수 있는 세상을 만들어 가고 싶습니다."
-
-Although I started late, I'm going to start now. Hold on. I'm coming.
-
-"비록 늦었지만, 이제 시작합니다. 꽉잡으세요. 제가 달려갑니다"
-
-
+B.S in Department of Data Information & Statistics, Pyeongtaek Univ 2019
+“세상의 이로움을 주고, 윤택한 삶을 주는 AI 기술을 만들고 싶습니다”
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbaekk.98) 
@@ -36,8 +29,6 @@ Although I started late, I'm going to start now. Hold on. I'm coming.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabsj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 [![Solved.ac/profile/nabsj](http://mazassumnida.wtf/api/v2/generate_badge?boj=nabsj)](https://solved.ac/nabsj)
 
 ---
