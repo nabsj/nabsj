@@ -13,12 +13,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbaekk.98) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seungjune-baek-488a63270) 
 
-<table>
-
-<tr>
-<td valign="top" width="42%">
-
-
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -59,23 +53,21 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-</td>
-<td valign="top" width="58%">
 
-### Education
+## Education
 
 - **2024.08** 평택대학교 졸업예정
 - **2022.09** 평택대학교 IT공과대학 ICT융합학부 스마트 컨텐츠 학과 복수전공
 - **2019.03 - 현재** 평택대학교 IT공과대학 데이터정보학과 4학년 재학중
 
-### Awards
+## Awards
 
 - **2024.02** Dacon 데이콘 대학 대항전: 퍼즐 이미지 AI 경진대회 – Final 5
 - **2023.11** 평택대학교 2023빅데이터 학술경진대회 - 대상
 - **2023.01** 한국컴퓨터정보학회(KSCI) 동계학술대회 - 우수논문상
 - **2022.11** 평택대학교 2022빅데이터 경진대회 - 대상
 
-### Certificates
+## Certificates
 
 - **2023.09** SKT FLY AI Challenger 3기 수료
 - **2023.09** Coursera/K-Mooc AI Literacy Digital Badge
@@ -83,7 +75,7 @@
 - **2023.08** Microsoft Certified: Azure AI Fundamentals
 - **2024.02** LG연구원 LG Aimer 4기 수료
 
-### Paper
+## Paper
 
 - **Influence of Social Overhead Capital Facilities on Housing Prices Using Machine Learning**
 
@@ -97,10 +89,6 @@
 
   한국컴퓨터정보학회 KSCI 2023 동계학술대회 논문집 / 2nd Author
 
- 
-</td>
-</tr>
-</table>
 
 
 
