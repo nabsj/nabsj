@@ -72,7 +72,7 @@
 - **2023.09** SKT FLY AI Challenger 3기 수료
 - **2023.09** Coursera/K-Mooc AI Literacy Digital Badge
 - **2023.08** SKT T-Learning Portal: SK Telecom AI CURRICULUM
-- **2023.08** Microsoft Certified: Azure AI Fundamentals
+- **2023.08** Microsoft Certified: Azure AI Fundamentals - AI-900
 - **2024.02** LG연구원 LG Aimer 4기 수료
 
 ## Paper
