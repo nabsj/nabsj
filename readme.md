@@ -7,7 +7,7 @@
 # 💫 About Me:
 “세상의 이로움을 주고, 윤택한 삶을 주는 AI 기술을 만들고 싶습니다”
 
-**안산모험가 seongejune-baek**
+**안산모험가 seongjune-baek**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbaekk.98) 
