@@ -67,6 +67,12 @@
 - **2023.01** 한국컴퓨터정보학회(KSCI) 동계학술대회 - 우수논문상
 - **2022.11** 평택대학교 2022빅데이터 경진대회 - 대상
 
+## Education
+
+- **2023.06** SK Telecom FLY Ai Challenger 3기
+- **2024.01** LG연구원 LG Aimers 4기
+- **2024.07** Google for Developers MLB 5기(2024) - 진행중
+
 ## Certificates
 
 - **2023.09** SKT FLY AI Challenger 3기 수료
