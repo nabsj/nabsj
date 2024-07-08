@@ -80,6 +80,7 @@
 - **2023.08** SKT T-Learning Portal: SK Telecom AI CURRICULUM
 - **2023.08** Microsoft Certified: Azure AI Fundamentals - AI-900
 - **2024.02** LG연구원 LG Aimer 4기 수료
+- **2024.06** 정보처리기사 필기 합 - 실기준비중
 
 ## Paper
 
