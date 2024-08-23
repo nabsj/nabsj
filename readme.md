@@ -56,8 +56,8 @@
 
 ## Education
 
-- **2024.08** 평택대학교 졸업예정
-- **2022.09** 평택대학교 IT공과대학 ICT융합학부 스마트 컨텐츠 학과 복수전공
+- **2024.08** 평택대학교 졸업
+- **2022.09** 평택대학교 IT공과대학 ICT융합학부 스마트컨텐츠학과 복수전공
 - **2019.03** 평택대학교 IT공과대학 데이터정보학과
 
 ## Awards
@@ -71,7 +71,7 @@
 
 - **2023.06** SK Telecom FLY Ai Challenger 3기
 - **2024.01** LG연구원 LG Aimers 4기
-- **2024.07** Google for Developers MLB 5기(2024) - 진행중
+- **2024.07** Google for Developers GMLB 5기(2024) - 진행중
 
 ## Certificates
 
@@ -80,7 +80,6 @@
 - **2023.08** SKT T-Learning Portal: SK Telecom AI CURRICULUM
 - **2023.08** Microsoft Certified: Azure AI Fundamentals - AI-900
 - **2024.02** LG연구원 LG Aimer 4기 수료
-- **2024.06** 정보처리기사 필기 합 - 실기준비중
 
 ## Paper
 
