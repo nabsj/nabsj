@@ -71,7 +71,7 @@
 
 - **2023.06** SK Telecom FLY Ai Challenger 3기
 - **2024.01** LG연구원 LG Aimers 4기
-- **2024.07** Google for Developers GMLB 5기(2024) - 진행중
+- **2024.07** Google for Developers Machine Learning Bootcamp 5기(2024)
 
 ## Certificates
 
@@ -80,6 +80,7 @@
 - **2023.08** SKT T-Learning Portal: SK Telecom AI CURRICULUM
 - **2023.08** Microsoft Certified: Azure AI Fundamentals - AI-900
 - **2024.02** LG연구원 LG Aimer 4기 수료
+- **2024.10** Google for Developers Machine Learning Bootcamp 5기 수료
 
 ## Paper
 
